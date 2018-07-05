@@ -15,7 +15,7 @@ class Welcome extends Component {
               
     
             </h1>
-            <img src="http://res.cloudinary.com/dwtoixcjm/image/upload/v1528376840/Adriana2_ssxulx.jpg" className="main-pic"/>
+            <img src="http://res.cloudinary.com/dwtoixcjm/image/upload/v1529623336/2_dqa17e.jpg" className="main-pic"/>
           </div>
         );
     }
