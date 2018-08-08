@@ -6,7 +6,7 @@ class About extends Component {
       <div className="About section about-section">
     
        
-        <p className="about-item"> From legal consulting to coding…Along my professional career I always had to deal with complex problems and enjoyed analyzing them. While studying at <a href = "https://restart.network/"> Restart Network </a>I rediscovered that complexity by studying algorithms and working with <strong>PHP</strong> and <strong>CodeIgniter</strong> as framework. </p>
+        <p className="about-item"> From legal consulting to coding…Along my professional career I always had to deal with complex problems and enjoyed analyzing them. While studying a Coding Bootcamp I rediscovered that complexity by studying algorithms and working with <strong>PHP</strong> and <strong>CodeIgniter</strong> as framework. </p>
         <p className="about-item">As months went by, new languages were introduced to me, such as <strong>Javascript</strong> and new frameworks such as NodeJS and libraries and tools such as <strong>React, MongoDB  or GitHub</strong>. Through a lot of <strong>hard work </strong>and <strong>collaboration</strong> with other colleagues, I have managed to have a good understanding of all these new technologies.</p> 
         <p className="about-item">I know this journey has just started and I am queen to continue learning and improve my programming skills, in order to become a very good developer. Moreover, as personal goal I want to encourage all <strong>women</strong> to join this field, so we have a more diverse and equal tech industry ;).
       </p>

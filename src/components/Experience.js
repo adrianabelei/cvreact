@@ -7,8 +7,10 @@ class Experience extends Component {
                <div className="resume-item d-flex flex-column flex-md-row mb-5">
             <div className="resume-content mr-auto">
 
+              <h3 className="mb-0">Co-founder & Web Developer, <a href= "https://4kcode.com/"> 4kCode</a></h3>
+              <p><b>July 2018 - Present</b></p>
               <h3 className="mb-0">CDD Analyst,  Safened.com</h3>
-              <p><b>January 2018 - June 2018</b></p>
+              <p><b>January 2018 - July 2018</b></p>
               <p>Part of the Amsterdam team responsible for improving the digital integration platform of SAFENED. The SAFENED platform is driven by advanced machine learning algorithms and is used by its partners to identify customers and prevent fraud.</p>
               <h3 className="mb-0">Associate, SpainCorp</h3>
               <p><b>November 2014 - July 2017</b></p>
